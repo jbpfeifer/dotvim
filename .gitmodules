@@ -19,3 +19,6 @@
 [submodule "bundle/bundle/tagbar"]
 	path = bundle/bundle/tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git

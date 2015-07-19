@@ -44,3 +44,6 @@
 	path = bundle/bootstrap-snippets
 	url = git://github.com/bonsaiben/bootstrap-snippets.git
 	branch = bootstrap-3-3-2
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
